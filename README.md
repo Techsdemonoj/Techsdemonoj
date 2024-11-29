@@ -31,7 +31,7 @@ If my experience intrigues you and you believe I could be a valuable addition to
 
 ### Let's get in touch! 😄
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-prasad-analyst/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monoj-das-275238189/)
 
 <!--
 **nikitaprasad21/nikitaprasad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
